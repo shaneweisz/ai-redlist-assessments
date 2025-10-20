@@ -1,0 +1,341 @@
+{
+  "assessment_id": 22694927,
+  "sis_taxon_id": 22694927,
+  "taxonid": 22694927,
+  "scientific_name": "Fratercula arctica",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "AVES",
+  "order": "CHARADRIIFORMES",
+  "family": "ALCIDAE",
+  "genus": "Fratercula",
+  "species_name": "arctica",
+  "infrarank": null,
+  "infrarank_name": null,
+  "authority": "(Linnaeus, 1758)",
+  "main_common_name": "Atlantic Puffin",
+  "common_names": [
+    {
+      "language": "eng",
+      "name": "Atlantic Puffin"
+    },
+    {
+      "language": "fra",
+      "name": "Macareux moine"
+    },
+    {
+      "language": "spa",
+      "name": "Frailecillo Atlántico"
+    }
+  ],
+  "synonyms": [
+    {
+      "name": "Alca arctica",
+      "authority": "Linnaeus, 1758"
+    }
+  ],
+  "assessment": {
+    "assessment_id": 22694927,
+    "assessment_date": "2017-10-01",
+    "year_published": 2017,
+    "category": "VU",
+    "criteria": "A4abcde",
+    "population_trend": "Decreasing",
+    "scope": "Global",
+    "scope_code": 1,
+    "marine_system": true,
+    "freshwater_system": false,
+    "terrestrial_system": true,
+    "assessor": "BirdLife International",
+    "reviewer": "Symes, A.",
+    "assessment_contributors": [
+      "BirdLife International"
+    ],
+    "aoo_km2": null,
+    "eoo_km2": 20800000,
+    "elevation_upper": null,
+    "elevation_lower": null,
+    "depth_upper": -50,
+    "depth_lower": 0,
+    "errata_flag": false,
+    "errata_reason": null,
+    "amended_flag": false,
+    "amended_reason": null,
+    "generation_length": 12,
+    "latest": true,
+    "citation": "BirdLife International. 2017. Fratercula arctica. The IUCN Red List of Threatened Species 2017: e.T22694927A118659334. https://dx.doi.org/10.2305/IUCN.UK.2017-3.RLTS.T22694927A118659334.en",
+    "url": "https://www.iucnredlist.org/species/22694927/118659334"
+  },
+  "documentation": {
+    "rationale": "This seabird is listed as Vulnerable because it is undergoing rapid population declines, particularly in the North Atlantic. In Europe, which supports the vast majority of the global population, the species declined by 19% overall between 2000 and 2013. However, the declines have been much more rapid in some countries. In Iceland, which supports the largest population, numbers fell by about 50% between 2003 and 2015. In Norway, which supports the second largest population, numbers fell by about 30% between 2005 and 2015. These declines are expected to continue, and possibly accelerate, over the next three generations (36 years), owing to ongoing climate change and food-web impacts. The species therefore qualifies as Vulnerable under criterion A4abcde.",
+    "geographic_range": "This species breeds on the coasts and islands of the North Atlantic. In North America, it breeds from northern Labrador to Maine, with the largest colonies in Newfoundland. In Europe, it breeds in Iceland, Norway, Russia, the Faroe Islands, Britain, Ireland and France. The majority of the population breeds in Iceland and Norway. Outside the breeding season, birds disperse more widely across the North Atlantic, wintering as far south as Morocco and New York, and ranging westwards to Greenland. The total area of occupancy during the breeding season is extremely large.",
+    "population": "The global population is estimated at 12,000,000-14,000,000 individuals (Wetlands International 2015), roughly equating to 8,000,000-9,300,000 mature individuals. The European population is estimated at 5,700,000-6,300,000 pairs, which equates to 11,400,000-12,600,000 mature individuals (BirdLife International 2015). Europe forms approximately 90% of the global range, so a very tentative estimate of the global population size is between 12,700,000-14,000,000 mature individuals, although further validation of this estimate is desirable. The population is suspected to be declining rapidly based on monitoring data from key breeding sites.",
+    "population_trend": "Decreasing",
+    "habitat_and_ecology": "This species breeds colonially on offshore islands and coastal cliffs, where it nests in burrows, rock crevices, or amongst boulders. It feeds at sea on small fish, particularly sand eels Ammodytes spp., sprats Sprattus sprattus, capelin Mallotus villosus and juvenile herring Clupea harengus, which it catches by pursuit-diving to depths of up to 60 m. Outside the breeding season, it disperses more widely over deeper offshore waters. The species is a long-lived seabird with low reproductive output. Generation length is estimated at 12 years.",
+    "threats": "The major threat to this species is climate change and its cascading effects on marine ecosystems and food availability. Rising sea temperatures have been linked to decreased availability of the small fish species that puffins rely on, particularly sand eels. This has led to reduced breeding success and adult survival at many colonies. Additional threats include bycatch in fishing gear, oil pollution, overfishing of prey species, introduced predators at breeding colonies (particularly rats and mink), and disturbance at breeding sites. Historical hunting pressure has ceased in most parts of the range, though some harvest continues in Iceland and the Faroe Islands.",
+    "use_and_trade": "This species has historically been hunted for food and feathers in Iceland and the Faroe Islands. Some level of harvest continues in Iceland, where it is regulated. The species is also of significant ecotourism value at accessible breeding colonies.",
+    "conservation_actions": "This species is protected under the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) and the Bern Convention. Many of its breeding colonies are within protected areas. Conservation actions underway include monitoring of key populations, protection of breeding sites from disturbance, eradication of introduced predators from breeding islands, and research into the causes of decline and potential management responses. Further research is needed to understand and mitigate the impacts of climate change on prey availability. Fisheries management to ensure sustainable populations of prey species is also important."
+  },
+  "habitats": [
+    {
+      "code": "3.8",
+      "habitat": "Marine Neritic - Subtidal Rock and Rocky Reefs",
+      "suitability": "Suitable",
+      "season": "Non-breeding",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.11",
+      "habitat": "Marine Oceanic - Epipelagic (0-200m)",
+      "suitability": "Suitable",
+      "season": "Non-breeding",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "6.0",
+      "habitat": "Rocky Areas (eg. inland cliffs, mountain peaks)",
+      "suitability": "Suitable",
+      "season": "Breeding",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "13.1",
+      "habitat": "Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands",
+      "suitability": "Suitable",
+      "season": "Breeding",
+      "majorimportance": "Yes"
+    }
+  ],
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.4.3",
+      "title": "Fishing & harvesting aquatic resources - Unintentional effects: fishing & harvesting (species being assessed is not the target) - Bycatch",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.4.4",
+      "title": "Fishing & harvesting aquatic resources - Unintentional effects: fishing & harvesting (species being assessed is not the target) - Overharvesting of key prey species",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "6.1",
+      "title": "Human intrusions & disturbance - Recreational activities",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "8.1",
+      "title": "Invasive & other problematic species, genes & diseases - Invasive non-native/alien species/diseases - Unspecified species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": "Invasive"
+    },
+    {
+      "code": "9.1.1",
+      "title": "Pollution - Domestic & urban waste water - Sewage",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "9.2",
+      "title": "Pollution - Industrial & military effluents",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Climate change & severe weather - Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "11.4",
+      "title": "Climate change & severe weather - Storms & flooding",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    }
+  ],
+  "conservation_actions": [
+    {
+      "code": "1.1",
+      "title": "Land/water protection - Site/area protection",
+      "status": "On-going"
+    },
+    {
+      "code": "1.2",
+      "title": "Land/water protection - Resource & habitat protection",
+      "status": "On-going"
+    },
+    {
+      "code": "2.1",
+      "title": "Land/water management - Site/area management",
+      "status": "On-going"
+    },
+    {
+      "code": "2.2",
+      "title": "Land/water management - Invasive/problematic species control",
+      "status": "On-going"
+    },
+    {
+      "code": "3.1",
+      "title": "Species management - Species management",
+      "status": "On-going"
+    },
+    {
+      "code": "5.1.2",
+      "title": "Law & policy - Legislation - National level",
+      "status": "On-going"
+    },
+    {
+      "code": "5.1.3",
+      "title": "Law & policy - Legislation - Sub-national level",
+      "status": "On-going"
+    },
+    {
+      "code": "5.1.4",
+      "title": "Law & policy - Legislation - International level",
+      "status": "On-going"
+    }
+  ],
+  "research_needed": [
+    {
+      "code": "1.2",
+      "title": "Research - Population size, distribution & trends"
+    },
+    {
+      "code": "1.5",
+      "title": "Research - Threats"
+    },
+    {
+      "code": "3.1",
+      "title": "Monitoring - Population trends"
+    },
+    {
+      "code": "3.2",
+      "title": "Monitoring - Harvest level trends"
+    }
+  ],
+  "countries": [
+    {
+      "code": "CA",
+      "country": "Canada",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "DK",
+      "country": "Denmark",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "FO",
+      "country": "Faroe Islands (to Denmark)",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "FR",
+      "country": "France",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GL",
+      "country": "Greenland (to Denmark)",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "IS",
+      "country": "Iceland",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "IE",
+      "country": "Ireland",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NO",
+      "country": "Norway",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "RU",
+      "country": "Russian Federation",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GB",
+      "country": "United Kingdom",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "US",
+      "country": "United States",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "biogeographical_realms": [
+    {
+      "code": "PA",
+      "realm": "Palearctic"
+    },
+    {
+      "code": "NA",
+      "realm": "Nearctic"
+    }
+  ]
+}

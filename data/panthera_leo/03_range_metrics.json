@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "agent": "geographic",
+  "species_name": "Panthera Leo",
+  "confidence": 0.6,
+  "data": {
+    "eoo_km2": 9434351.04,
+    "aoo_km2": 396,
+    "number_of_locations": "TBD - requires expert analysis",
+    "severely_fragmented": "TBD - requires expert analysis",
+    "criterion_b": {
+      "b1_met": false,
+      "b1_category": null,
+      "b2_met": true,
+      "b2_category": "EN",
+      "notes": "EOO: 9,434,351 km\u00b2. AOO: 396 km\u00b2."
+    },
+    "geographic_range": {
+      "centroid": {
+        "lat": -12.727818059999999,
+        "lon": 33.09627706
+      },
+      "bounding_box": {
+        "min_lat": -33.429844,
+        "max_lat": 21.18693,
+        "min_lon": 19.612668,
+        "max_lon": 70.784048
+      },
+      "convex_hull_coords": [
+        [
+          26.132507,
+          -33.429844
+        ],
+        [
+          19.612668,
+          -33.359255
+        ],
+        [
+          20.157877,
+          -25.914767
+        ],
+        [
+          29.611681,
+          -0.607934
+        ],
+        [
+          31.407269,
+          2.361601
+        ],
+        [
+          70.784048,
+          21.18693
+        ],
+        [
+          70.753511,
+          21.055892
+        ],
+        [
+          32.166574,
+          -28.183388
+        ],
+        [
+          26.132507,
+          -33.429844
+        ]
+      ]
+    },
+    "spatial_analysis": {
+      "number_of_occurrences": 100,
+      "number_of_unique_cells": 99,
+      "spatial_extent_km2": 9434351.04
+    }
+  },
+  "metadata": {
+    "method": "python_geopandas",
+    "grid_size_km": 2,
+    "crs": "EPSG:4326"
+  },
+  "warnings": [],
+  "errors": []
+}

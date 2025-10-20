@@ -1,0 +1,20 @@
+# IUCN Red List Assessment Pipeline - Python Dependencies
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Geographic calculations (EOO/AOO)
+geopandas>=0.13.0
+shapely>=2.0.0
+pyproj>=3.5.0
+
+# API clients
+requests>=2.31.0
+
+# Data formats
+python-dotenv>=1.0.0
+
+# Optional: Literature mining
+# beautifulsoup4>=4.12.0
+# scholarly>=1.7.0

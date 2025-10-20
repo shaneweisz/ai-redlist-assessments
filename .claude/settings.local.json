@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.iucnredlist.org)",
+      "Bash(source venv/bin/activate)",
+      "Bash(python scripts/calculate_eoo_aoo.py panthera_leo)",
+      "Bash(cat data/panthera_leo/03_range_metrics.json)",
+      "Bash(python3 -m json.tool)",
+      "Bash(git init)",
+      "Bash(git add -A)",
+      "Bash(git add .gitignore)",
+      "Bash(git rm --cached src/config/api_keys.env)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

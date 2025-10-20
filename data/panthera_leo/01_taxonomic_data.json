@@ -1,0 +1,95 @@
+{
+  "status": "success",
+  "agent": "taxonomy",
+  "species_name": "Panthera leo",
+  "confidence": 0.99,
+  "data": {
+    "taxonid": 15951,
+    "scientific_name": "Panthera leo",
+    "kingdom": "ANIMALIA",
+    "phylum": "CHORDATA",
+    "class": "MAMMALIA",
+    "order": "CARNIVORA",
+    "family": "FELIDAE",
+    "genus": "Panthera",
+    "species_name": "leo",
+    "authority": "(Linnaeus, 1758)",
+    "taxonomic_status": "ACCEPTED",
+    "main_common_name": "Lion",
+    "common_names": [
+      {
+        "language": "eng",
+        "name": "Lion"
+      },
+      {
+        "language": "eng",
+        "name": "African Lion"
+      },
+      {
+        "language": "fra",
+        "name": "Lion"
+      },
+      {
+        "language": "spa",
+        "name": "León"
+      },
+      {
+        "language": "afr",
+        "name": "Leeu"
+      },
+      {
+        "language": "amh",
+        "name": "Ambessa"
+      },
+      {
+        "language": "nya",
+        "name": "Mkango"
+      },
+      {
+        "language": "por",
+        "name": "Leao"
+      },
+      {
+        "language": "sna",
+        "name": "Shumba"
+      },
+      {
+        "language": "sot",
+        "name": "Tau"
+      },
+      {
+        "language": "swa",
+        "name": "Simba"
+      },
+      {
+        "language": "tsn",
+        "name": "Tau"
+      },
+      {
+        "language": "ven",
+        "name": "Ndau"
+      },
+      {
+        "language": "xho",
+        "name": "iNgwenyama"
+      }
+    ],
+    "synonyms": [
+      "Felis leo Linnaeus, 1758"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "gbif",
+      "iucn"
+    ],
+    "gbif_usage_key": 5219404,
+    "gbif_confidence": 99,
+    "gbif_match_type": "EXACT",
+    "iucn_taxon_id": "15951",
+    "iucn_assessment_id": "231696234",
+    "timestamp": "2025-10-20T12:21:43Z"
+  },
+  "warnings": [],
+  "errors": []
+}

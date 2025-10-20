@@ -1,0 +1,648 @@
+{
+  "status": "success",
+  "agent": "occurrence",
+  "species_name": "Panthera leo",
+  "confidence": 0.9,
+  "data": {
+    "total_records": 16353,
+    "countries": [
+      "BW",
+      "IN",
+      "KE",
+      "NA",
+      "TD",
+      "TZ",
+      "UG",
+      "ZA",
+      "ZW"
+    ],
+    "biogeographical_realms": [
+      "Afrotropic",
+      "Indomalayan"
+    ],
+    "habitat_systems": {
+      "marine_system": false,
+      "freshwater_system": false,
+      "terrestrial_system": true
+    },
+    "elevation": {
+      "min_meters": null,
+      "max_meters": null
+    },
+    "occurrence_points": [
+      {
+        "latitude": -2.637562,
+        "longitude": 34.715044,
+        "date": "2025-01-02T13:53:58",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -28.112284,
+        "longitude": 32.172866,
+        "date": "2025-01-06T15:12",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -2.821209,
+        "longitude": 34.944131,
+        "date": "2025-01-01T18:33",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -28.185588,
+        "longitude": 32.125878,
+        "date": "2025-01-06T15:09",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.205889,
+        "longitude": 31.287023,
+        "date": "2025-01-03T17:38",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -2.64593,
+        "longitude": 34.824781,
+        "date": "2025-01-02T13:32:02",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -1.443841,
+        "longitude": 35.007659,
+        "date": "2025-01-06T19:01:04",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -1.928538,
+        "longitude": 36.14641,
+        "date": "2025-01-05T19:15:27",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -25.161211,
+        "longitude": 31.89854,
+        "date": "2025-01-10T11:09",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": 21.055892,
+        "longitude": 70.753511,
+        "date": "2025-01-13T19:32:15",
+        "country_code": "IN"
+      },
+      {
+        "latitude": -2.228149,
+        "longitude": 37.387483,
+        "date": "2025-01-02T06:37",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -3.529893,
+        "longitude": 35.686982,
+        "date": "2025-01-04T19:46",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -25.364177,
+        "longitude": 27.052364,
+        "date": "2025-01-11T06:03:05",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -26.277984,
+        "longitude": 20.665067,
+        "date": "2025-01-07T06:10",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -2.255872,
+        "longitude": 34.97049,
+        "date": "2025-01-05T12:13:10",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -3.661441,
+        "longitude": 35.768794,
+        "date": "2025-01-04T20:35",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -3.720434,
+        "longitude": 35.713068,
+        "date": "2025-01-04T20:37",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -18.42371,
+        "longitude": 24.024846,
+        "date": "2025-01-12T08:15:43",
+        "country_code": "BW"
+      },
+      {
+        "latitude": 21.022521,
+        "longitude": 70.644336,
+        "date": "2025-01-13T19:32:18",
+        "country_code": "IN"
+      },
+      {
+        "latitude": -24.527923,
+        "longitude": 31.451689,
+        "date": "2025-01-14T21:47",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": 21.18693,
+        "longitude": 70.784048,
+        "date": "2025-01-14T08:35",
+        "country_code": "IN"
+      },
+      {
+        "latitude": -3.116418,
+        "longitude": 35.239219,
+        "date": "2025-01-17",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -21.588057,
+        "longitude": 23.449097,
+        "date": "2025-01-06T16:31",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -19.082858,
+        "longitude": 23.746537,
+        "date": "2025-01-08T08:56",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -4.13205,
+        "longitude": 36.126125,
+        "date": "2025-01-15",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -18.443882,
+        "longitude": 24.089638,
+        "date": "2025-01-12T06:44",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -24.106205,
+        "longitude": 31.745709,
+        "date": "2025-01-11T05:24:10",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.510796,
+        "longitude": 31.732492,
+        "date": "2025-01-18T11:00:48",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -2.995969,
+        "longitude": 35.074114,
+        "date": "2025-01-01T11:15:38",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -2.538454,
+        "longitude": 34.877718,
+        "date": "2025-01-12T11:44:10",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -28.018219,
+        "longitude": 32.185133,
+        "date": "2025-01-06T15:16",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -28.183388,
+        "longitude": 32.166574,
+        "date": "2025-01-06T15:14",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -25.646683,
+        "longitude": 20.646867,
+        "date": "2025-01-19T07:42:54",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -19.192052,
+        "longitude": 23.647752,
+        "date": "2025-01-08T10:28:59",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -25.914767,
+        "longitude": 20.157877,
+        "date": "2025-01-21T07:06:59",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -21.509278,
+        "longitude": 23.290347,
+        "date": "2025-01-06T12:36:15",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -18.434267,
+        "longitude": 24.01505,
+        "date": "2025-01-12T08:15:44",
+        "country_code": "BW"
+      },
+      {
+        "latitude": -27.914304,
+        "longitude": 32.302729,
+        "date": "2025-01-21T17:54",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -7.268014,
+        "longitude": 37.183245,
+        "date": "2025-01-24T17:13:12",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -0.184553,
+        "longitude": 37.819431,
+        "date": "2025-01-28T22:04:47",
+        "country_code": "KE"
+      },
+      {
+        "latitude": 0.794121,
+        "longitude": 36.602875,
+        "date": "2025-01-23T06:58",
+        "country_code": "KE"
+      },
+      {
+        "latitude": 0.684411,
+        "longitude": 36.771611,
+        "date": "2025-01-22T10:53",
+        "country_code": "KE"
+      },
+      {
+        "latitude": 0.779923,
+        "longitude": 36.921727,
+        "date": "2025-01-28T07:22",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -27.155289,
+        "longitude": 32.404601,
+        "date": "2025-01-27T18:20:28",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -25.308359,
+        "longitude": 31.934109,
+        "date": "2025-01-29T11:28:16",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -0.607934,
+        "longitude": 29.611681,
+        "date": "2025-01-28T13:43:32",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -1.546789,
+        "longitude": 35.508389,
+        "date": "2025-01-27T20:14:06",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -27.11461,
+        "longitude": 32.479363,
+        "date": "2025-01-27T18:17:20",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -2.396059,
+        "longitude": 34.975562,
+        "date": "2025-01-22T18:27",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -2.35311,
+        "longitude": 34.96051,
+        "date": "2025-01-22T07:59",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -24.524423,
+        "longitude": 31.503152,
+        "date": "2025-01-10T04:28",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -0.240908,
+        "longitude": 29.887368,
+        "date": "2025-01-30T09:51",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -2.718536,
+        "longitude": 34.876021,
+        "date": "2025-01-23T17:17",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -24.543703,
+        "longitude": 31.579103,
+        "date": "2025-01-10T04:49",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -2.66784,
+        "longitude": 34.956949,
+        "date": "2025-01-23T13:53",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -3.061739,
+        "longitude": 34.804208,
+        "date": "2025-01-25T16:14",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": 0.545227,
+        "longitude": 37.480027,
+        "date": "2025-01-23T18:50",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -0.425577,
+        "longitude": 36.035525,
+        "date": "2025-01-26T11:21",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -25.126177,
+        "longitude": 31.658307,
+        "date": "2025-01-30T14:57:35",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.53993,
+        "longitude": 31.753405,
+        "date": "2025-01-11T11:52",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.458512,
+        "longitude": 31.891594,
+        "date": "2025-01-14",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -1.297969,
+        "longitude": 36.860038,
+        "date": "2025-01-19T15:08",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -24.465204,
+        "longitude": 31.839041,
+        "date": "2025-01-14",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.468457,
+        "longitude": 31.600433,
+        "date": "2025-01-11T11:52",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.379816,
+        "longitude": 30.989729,
+        "date": "2025-01-10T05:44",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -7.248075,
+        "longitude": 37.120572,
+        "date": "2025-01-24T14:15:48",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -24.506869,
+        "longitude": 31.702089,
+        "date": "2025-01-11T13:17",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.248435,
+        "longitude": 31.70313,
+        "date": "2025-01-12T13:42",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.470048,
+        "longitude": 31.480887,
+        "date": "2025-01-12T10:22",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.513391,
+        "longitude": 31.428632,
+        "date": "2025-01-12T01:19",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -1.340898,
+        "longitude": 36.948156,
+        "date": "2025-01-26T16:54",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -1.229244,
+        "longitude": 34.867647,
+        "date": "2025-01-29T10:11",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -1.352229,
+        "longitude": 35.057553,
+        "date": "2025-01-10T13:01",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -1.380721,
+        "longitude": 35.05745,
+        "date": "2025-01-10T16:27",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -24.319362,
+        "longitude": 31.754426,
+        "date": "2025-01-16",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -1.3222,
+        "longitude": 36.994085,
+        "date": "2025-01-26T16:58",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -33.359255,
+        "longitude": 19.612668,
+        "date": "2025-01-30",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": 1.589631,
+        "longitude": 34.947557,
+        "date": "2025-01-29T10:17",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -25.305546,
+        "longitude": 31.978362,
+        "date": "2025-01-11T11:30",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -0.669308,
+        "longitude": 29.667235,
+        "date": "2025-01-19T17:34:11",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -24.628374,
+        "longitude": 31.502446,
+        "date": "2025-01-30T07:09",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.409242,
+        "longitude": 31.796088,
+        "date": "2025-01-13T10:26",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.562177,
+        "longitude": 31.753297,
+        "date": "2025-01-28T17:51",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.407407,
+        "longitude": 31.801883,
+        "date": "2025-01-13T15:55",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.108581,
+        "longitude": 31.69647,
+        "date": "2025-01-14T07:15",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.553292,
+        "longitude": 31.950218,
+        "date": "2025-01-14T16:46",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.539307,
+        "longitude": 31.996839,
+        "date": "2025-01-15T05:58",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": 2.361601,
+        "longitude": 31.407269,
+        "date": "2025-01-20T17:39",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -0.162483,
+        "longitude": 29.887333,
+        "date": "2025-01-14T12:52",
+        "country_code": "UG"
+      },
+      {
+        "latitude": 2.248225,
+        "longitude": 31.55308,
+        "date": "2025-01-06T15:43",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -1.511431,
+        "longitude": 35.073902,
+        "date": "2025-01-23T17:20:04",
+        "country_code": "KE"
+      },
+      {
+        "latitude": -23.863936,
+        "longitude": 31.515808,
+        "date": "2025-01-06T00:04",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": 2.300022,
+        "longitude": 31.530591,
+        "date": "2025-01-20T07:41",
+        "country_code": "UG"
+      },
+      {
+        "latitude": 2.29924,
+        "longitude": 31.477959,
+        "date": "2025-01-20T16:19",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -0.713411,
+        "longitude": 29.777778,
+        "date": "2025-01-27T10:29",
+        "country_code": "UG"
+      },
+      {
+        "latitude": -2.983796,
+        "longitude": 34.97383,
+        "date": "2025-01-02T11:28",
+        "country_code": "TZ"
+      },
+      {
+        "latitude": -24.759197,
+        "longitude": 26.203599,
+        "date": "2025-01-02T08:24:11",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -33.429844,
+        "longitude": 26.132507,
+        "date": "2025-01-05T21:16",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -24.667742,
+        "longitude": 27.8158,
+        "date": "2025-01-21T07:49",
+        "country_code": "ZA"
+      },
+      {
+        "latitude": -27.770959,
+        "longitude": 32.054568,
+        "date": "2025-02-02T12:02",
+        "country_code": "ZA"
+      }
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "gbif"
+    ],
+    "timestamp": "2025-10-20T12:23:15Z",
+    "query": "scientificName=Panthera leo",
+    "limit": 300,
+    "records_returned": 300
+  },
+  "warnings": [
+    "No elevation data available in occurrence records"
+  ],
+  "errors": []
+}
