@@ -2,11 +2,34 @@
 
 This repository explores the process of contributing IUCN Red List assessments and investigates opportunities for AI-assisted automation.
 
-## Contents
+## Project Structure
 
-1. **[ARCHITECTURE.md](ARCHITECTURE.md)** - Multi-agent pipeline architecture and design
-2. **[SAMPLE_ASSESSMENT_DATA.md](SAMPLE_ASSESSMENT_DATA.md)** - Comprehensive guide to IUCN Red List assessment data structures
-3. **[example_assessment.json](example_assessment.json)** - Complete example assessment for Atlantic Puffin (*Fratercula arctica*)
+```
+ai-redlist-assessments/
+├── 📄 README.md                    # This file
+├── 📄 CITATION.cff                 # Academic citation
+├── 📄 requirements.txt             # Python dependencies
+├── 🤖 .claude/                     # Claude Code agents
+│   ├── agents/                     # Subagent definitions
+│   └── commands/                   # Slash commands
+├── 📚 docs/                        # Documentation
+│   ├── ARCHITECTURE.md             # System design
+│   ├── GETTING_STARTED.md          # Setup guide
+│   ├── AI_DEVELOPMENT_LOG.md       # Transparency log
+│   ├── reference/                  # Data examples
+│   └── results/                    # Test results
+├── 📊 data/                        # Assessment outputs
+│   └── panthera_leo/               # Example assessment
+├── 🐍 scripts/                     # Utility scripts
+├── 💻 src/                         # Source code
+└── 🧪 tests/                       # Test files
+```
+
+**Quick Links:**
+- 📖 [Getting Started Guide](docs/GETTING_STARTED.md)
+- 🏗️ [Architecture Documentation](docs/ARCHITECTURE.md)
+- 🤖 [AI Development Log](docs/AI_DEVELOPMENT_LOG.md)
+- 📊 [Panthera leo Results](docs/results/PANTHERA_LEO_RESULTS.md)
 
 ## Quick Start
 
@@ -104,7 +127,7 @@ This project implements a **multi-agent workflow** using Claude Code's subagent 
 
 **Current Status:** ✅ Phases 1-2 implemented and functional
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for complete details on the agentic system design.
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for complete details on the agentic system design.
 
 ## AI Automation Potential
 
@@ -324,7 +347,7 @@ This project was developed using **Claude Code** (Anthropic's AI assistant) in a
 - **Development Time:** ~2 hours (October 20, 2025)
 - **Model Used:** Claude Sonnet 4.5
 
-**For full transparency:** See [AI_DEVELOPMENT_LOG.md](AI_DEVELOPMENT_LOG.md) for complete documentation of the AI's role in development.
+**For full transparency:** See [docs/AI_DEVELOPMENT_LOG.md](docs/AI_DEVELOPMENT_LOG.md) for complete documentation of the AI's role in development.
 
 **Citation:** If you use this project in research, please cite both the human author and AI assistant using [CITATION.cff](CITATION.cff).
 
