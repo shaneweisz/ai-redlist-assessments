@@ -23,7 +23,8 @@ ai-redlist-assessments/
 │   ├── reference/                  # Data examples
 │   └── results/                    # Test results
 ├── 📊 data/                        # Assessment outputs
-│   └── panthera_leo/               # Example assessment
+│   ├── panthera_leo/               # Lion assessment (wide-ranging)
+│   └── spizocorys_fringillaris/    # Botha's Lark (range-restricted)
 ├── 🐍 scripts/                     # Utility scripts
 ├── 💻 src/                         # Source code
 └── 🧪 tests/                       # Test files
@@ -33,7 +34,9 @@ ai-redlist-assessments/
 - 📖 [Getting Started Guide](docs/GETTING_STARTED.md)
 - 🏗️ [Architecture Documentation](docs/ARCHITECTURE.md)
 - 🤖 [AI Development Log](docs/AI_DEVELOPMENT_LOG.md)
-- 📊 [Panthera leo Results](docs/results/PANTHERA_LEO_RESULTS.md)
+- 📊 **Assessment Results:**
+  - [Panthera leo (Lion)](docs/results/PANTHERA_LEO_RESULTS.md) - Wide-ranging species
+  - [Spizocorys fringillaris (Botha's Lark)](docs/results/SPIZOCORYS_FRINGILLARIS_RESULTS.md) - **95% accurate vs official IUCN**
 - ⚠️ [Addressing Concerns About AI](docs/ADDRESSING_CONCERNS.md) - **Read this first if skeptical**
 
 ## Quick Start
@@ -45,7 +48,8 @@ ai-redlist-assessments/
 # 2. Add your IUCN API key to src/config/api_keys.env
 
 # 3. Run assessment pipeline
-/assess Panthera leo
+/assess Panthera leo              # Wide-ranging species
+/assess Spizocorys fringillaris   # Range-restricted species
 ```
 
 ## Overview

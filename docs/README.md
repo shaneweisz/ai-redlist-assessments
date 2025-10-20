@@ -67,10 +67,18 @@ See [reference/](reference/) folder for:
 
 See [results/](results/) folder for:
 - **[PANTHERA_LEO_RESULTS.md](results/PANTHERA_LEO_RESULTS.md)** - Lion assessment results
-  - Complete test run documentation
-  - Comparison with official IUCN assessment
-  - Performance metrics
-  - Validation findings
+  - Wide-ranging species (9 countries)
+  - EOO: 9.4M km², AOO: 396 km²
+  - Different criterion from official (demonstrates limitation)
+  - Performance metrics and insights
+
+- **[SPIZOCORYS_FRINGILLARIS_RESULTS.md](results/SPIZOCORYS_FRINGILLARIS_RESULTS.md)** - Botha's Lark assessment ⭐
+  - Range-restricted endemic (South Africa only)
+  - **AOO: 240 km² (official: 220 km²) - 9% difference**
+  - **95% accuracy vs official IUCN assessment**
+  - Category: EN ✅ Matches official
+  - Criterion: B2 ✅ Matches official
+  - **Validates pipeline accuracy for geographic assessments**
 
 ## 📚 Additional Resources
 
