@@ -1,0 +1,72 @@
+{
+  "data": {
+    "scientific_name": "Spizocorys fringillaris",
+    "authority": "(Sundevall, 1850)",
+    "basionym": "Alauda fringillaris Sundevall, 1850",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "genus": "Spizocorys",
+    "common_names": [
+      {
+        "language": "eng",
+        "name": "Botha's Lark"
+      },
+      {
+        "language": "afr",
+        "name": "Vaalrivierlewerik"
+      },
+      {
+        "language": "dan",
+        "name": "Swasilærke"
+      },
+      {
+        "language": "deu",
+        "name": "Finkenlerche"
+      },
+      {
+        "language": "fra",
+        "name": "Alouette de Botha"
+      },
+      {
+        "language": "ita",
+        "name": "Allodola di Botha"
+      },
+      {
+        "language": "nld",
+        "name": "Botha's Leeuwerik"
+      },
+      {
+        "language": "nor",
+        "name": "Astrildlerke"
+      },
+      {
+        "language": "spa",
+        "name": "Alondra de Botha"
+      }
+    ],
+    "taxonomic_notes": "Originally described as Alauda fringillaris by Sundevall in 1850. Formerly classified in genera Calandrella or monotypic genus Botha. Recent genetic studies support placement in Spizocorys, closely related to Pink-billed Lark (Spizocorys conirostris). Current classification accepted by GBIF, IOC World Bird List, Catalogue of Life, and Clements Checklist.",
+    "alternative_names": [
+      "Calandrella fringillaris",
+      "Botha difficilis"
+    ],
+    "gbif_id": 2490649,
+    "iucn_id": 22717368
+  },
+  "source": "GBIF API (primary) with cross-reference to IUCN Red List",
+  "confidence": 0.99,
+  "timestamp": "2025-10-20T19:16:42Z",
+  "metadata": {
+    "taxonomic_status": "ACCEPTED",
+    "data_sources": [
+      "GBIF Backbone Taxonomy",
+      "IOC World Bird List v11.2",
+      "Catalogue of Life",
+      "Integrated Taxonomic Information System (ITIS)",
+      "The Clements Checklist"
+    ],
+    "notes": "GBIF confidence score: 99% for exact match. Taxonomic consensus across major bird taxonomic authorities."
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "data": {
+    "total_records": 264,
+    "unique_records": 130,
+    "date_range": {
+      "earliest": 1909,
+      "latest": 2024,
+      "span_years": 115
+    },
+    "countries": [
+      {
+        "code": "ZA",
+        "country": "South Africa",
+        "records": 130
+      }
+    ],
+    "occurrence_points": [
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2024,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2023,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2022,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.355209,
+        "lon": 30.112129,
+        "year": 2022,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2022,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2021,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.146467,
+        "lon": 29.983412,
+        "year": 2021,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.146182,
+        "lon": 29.982972,
+        "year": 2021,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2020,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.374583,
+        "lon": 30.207917,
+        "year": 2020,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.04125,
+        "year": 2020,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.141455,
+        "lon": 29.989921,
+        "year": 2020,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.141066,
+        "lon": 29.98995,
+        "year": 2020,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2019,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.15,
+        "lon": 29.98,
+        "year": 2019,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.134158,
+        "lon": 29.986296,
+        "year": 2019,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.142,
+        "lon": 29.99,
+        "year": 2019,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.54125,
+        "year": 2019,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.457917,
+        "lon": 29.957917,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.874583,
+        "lon": 29.457917,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.124583,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.149645,
+        "lon": 29.968791,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.04125,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.207917,
+        "year": 2018,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.150029,
+        "lon": 29.96847,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.1495,
+        "lon": 29.9682,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.354072,
+        "lon": 30.124285,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.150149,
+        "lon": 29.968565,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.374583,
+        "lon": 30.29125,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 29.957917,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.707917,
+        "lon": 29.707917,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.140583,
+        "lon": 29.990534,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.04125,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.349362,
+        "lon": 30.132947,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.150203,
+        "lon": 29.967649,
+        "year": 2017,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.354072,
+        "lon": 30.124285,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.874583,
+        "lon": 29.54125,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.081,
+        "lon": 30.0076,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.136987,
+        "lon": 29.990159,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.141783,
+        "lon": 29.990669,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.298189,
+        "lon": 30.071636,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.138286,
+        "lon": 29.988528,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.957917,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.04125,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.283651,
+        "lon": 30.098848,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.04125,
+        "year": 2016,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.124583,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.074421,
+        "lon": 29.994972,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.056079,
+        "lon": 30.011524,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.155677,
+        "lon": 30.302147,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.957917,
+        "lon": 29.29125,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.207917,
+        "lon": 29.207917,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 30.04125,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.302326,
+        "lon": 30.053796,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.299519,
+        "lon": 30.056924,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2015,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.300723,
+        "lon": 30.056449,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.236621,
+        "lon": 30.033531,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.313355,
+        "lon": 30.120157,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.778988,
+        "lon": 29.538745,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.250128,
+        "lon": 30.115328,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.124583,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.04125,
+        "year": 2014,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2013,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.356176,
+        "lon": 30.094103,
+        "year": 2011,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2011,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.3541,
+        "lon": 30.1243,
+        "year": 2011,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.04125,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.124583,
+        "lon": 29.124583,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.874583,
+        "lon": 29.457917,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.874583,
+        "lon": 29.374583,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.207917,
+        "lon": 30.04125,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 29.874583,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 29.79125,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.124583,
+        "year": 2010,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 27.874583,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 27.957917,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.124583,
+        "lon": 30.04125,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.04125,
+        "lon": 30.04125,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.124583,
+        "year": 2009,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.04125,
+        "year": 2008,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -28.04125,
+        "lon": 29.207917,
+        "year": 2008,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.29125,
+        "lon": 30.124583,
+        "year": 2008,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.166667,
+        "lon": 30.25,
+        "year": 1994,
+        "basis": "MACHINE_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 30.125,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.625,
+        "lon": 28.375,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.625,
+        "lon": 29.375,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.375,
+        "lon": 30.125,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.125,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.625,
+        "lon": 29.875,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.125,
+        "lon": 29.875,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.375,
+        "lon": 29.875,
+        "year": 1991,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.375,
+        "lon": 29.375,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.125,
+        "lon": 29.125,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.375,
+        "lon": 29.125,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.625,
+        "lon": 29.125,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.625,
+        "lon": 28.375,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.125,
+        "lon": 29.625,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.125,
+        "lon": 29.875,
+        "year": 1990,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 28.375,
+        "year": 1989,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.125,
+        "year": 1989,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.875,
+        "year": 1989,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1989,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1988,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 28.375,
+        "year": 1988,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.875,
+        "year": 1988,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1986,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1985,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.875,
+        "year": 1984,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1984,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1983,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 29.875,
+        "year": 1983,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -27.125,
+        "lon": 29.875,
+        "year": 1983,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 30.125,
+        "year": 1982,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.875,
+        "lon": 29.875,
+        "year": 1982,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.125,
+        "lon": 29.625,
+        "year": 1976,
+        "basis": "HUMAN_OBSERVATION"
+      },
+      {
+        "lat": -26.5167,
+        "lon": 30.0,
+        "year": 1962,
+        "basis": "PRESERVED_SPECIMEN"
+      },
+      {
+        "lat": -26.5,
+        "lon": 28.35,
+        "year": 1909,
+        "basis": "PRESERVED_SPECIMEN"
+      }
+    ],
+    "data_quality": {
+      "coordinate_precision": "high",
+      "average_decimal_places": 4.72,
+      "temporal_coverage": "excellent",
+      "basis_of_record_summary": {
+        "MACHINE_OBSERVATION": 1,
+        "HUMAN_OBSERVATION": 127,
+        "PRESERVED_SPECIMEN": 2
+      }
+    }
+  },
+  "source": "GBIF",
+  "api_endpoint": "https://api.gbif.org/v1/occurrence/search",
+  "confidence": 0.9,
+  "timestamp": "2025-10-20T20:15:44.920790",
+  "notes": "Successfully retrieved 130 unique occurrence records from 264 total records. Data spans 115 years across 1 country/countries."
+}
