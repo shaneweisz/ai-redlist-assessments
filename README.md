@@ -315,6 +315,19 @@ print(threats)
 ### Training
 - **IUCN Red List Assessor Training:** https://www.conservationtraining.org/course/index.php?categoryid=23
 
+## AI Transparency
+
+This project was developed using **Claude Code** (Anthropic's AI assistant) in a collaborative human-AI process:
+
+- **Human Role:** Project vision, domain guidance, validation, decision-making
+- **AI Role:** Research, architecture design, implementation, documentation
+- **Development Time:** ~2 hours (October 20, 2025)
+- **Model Used:** Claude Sonnet 4.5
+
+**For full transparency:** See [AI_DEVELOPMENT_LOG.md](AI_DEVELOPMENT_LOG.md) for complete documentation of the AI's role in development.
+
+**Citation:** If you use this project in research, please cite both the human author and AI assistant using [CITATION.cff](CITATION.cff).
+
 ## Contributing
 
 This is a research project exploring AI automation opportunities for IUCN Red List assessments. Contributions, ideas, and collaborations are welcome!

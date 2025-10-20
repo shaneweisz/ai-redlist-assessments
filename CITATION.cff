@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AI-Assisted IUCN Red List Assessment Pipeline"
+version: 0.1.0
+date-released: 2025-10-20
+url: "https://github.com/shaneweisz/ai-redlist-assessments"
+repository-code: "https://github.com/shaneweisz/ai-redlist-assessments"
+license: MIT
+authors:
+  - family-names: "Weisz"
+    given-names: "Shane"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Update with your ORCID
+  - name: "Claude (Anthropic AI Assistant)"
+    alias: "claude-sonnet-4-5"
+keywords:
+  - IUCN Red List
+  - conservation assessment
+  - AI agents
+  - biodiversity
+  - automation
+  - Claude Code
+  - multi-agent systems
+abstract: "A multi-agent AI pipeline for automating IUCN Red List species assessments, developed collaboratively using Claude Code. Implements data collection from GBIF and IUCN APIs, geographic range calculations (EOO/AOO), and criteria evaluation following IUCN standards. Built with transparency and reproducibility in mind."

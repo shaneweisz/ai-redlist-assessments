@@ -10,7 +10,11 @@
       "Bash(git init)",
       "Bash(git add -A)",
       "Bash(git add .gitignore)",
-      "Bash(git rm --cached src/config/api_keys.env)"
+      "Bash(git rm --cached src/config/api_keys.env)",
+      "Bash(git add AI_DEVELOPMENT_LOG.md CITATION.cff README.md)",
+      "Bash(git add .claude/settings.local.json)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd AI transparency and development documentation\n\nComprehensive transparency documentation for AI-assisted development:\n\n- AI_DEVELOPMENT_LOG.md: Complete session log documenting AI''s role\n  - Development timeline and phases\n  - Human vs AI decision-making\n  - Prompts and interactions\n  - Reproducibility instructions\n  - Ethical considerations\n\n- CITATION.cff: Academic citation file\n  - Credits both human and AI contributions\n  - Structured metadata for research use\n\n- README.md: Added AI transparency section\n  - Links to detailed documentation\n  - Clear attribution of AI role\n  - Development methodology summary\n\nTransparency Features:\n- Session timeline (2 hours, Oct 20 2025)\n- Model identification (Claude Sonnet 4.5)\n- Code attribution breakdown (95% AI-generated)\n- Decision-making process documented\n- Reproducibility instructions included\n- Ethical considerations addressed\n\nThis ensures scientific integrity and allows others to:\n1. Understand how AI was used\n2. Reproduce the development process\n3. Properly cite the project\n4. Evaluate AI contribution vs human expertise\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)"
     ],
     "deny": [],
     "ask": []
