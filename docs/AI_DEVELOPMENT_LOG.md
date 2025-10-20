@@ -1,5 +1,7 @@
 # AI-Assisted Development Log
 
+> **📝 Complete Conversation History:** For verbatim transcript of all prompts and responses, see [CONVERSATION_HISTORY.md](CONVERSATION_HISTORY.md). This document provides high-level overview and analysis.
+
 ## Overview
 
 This project was developed using **Claude Code** (Anthropic's AI coding assistant) in an interactive, iterative session. This document provides transparency about the AI's role in the development process.
