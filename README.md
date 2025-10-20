@@ -1,6 +1,10 @@
-# Accelerate Red List Assessments
+# AI-Assisted IUCN Red List Assessments
 
-This repository explores the process of contributing IUCN Red List assessments and investigates opportunities for AI-assisted automation.
+> **⚠️ Important Notice**
+>
+> This project uses AI to **assist** (not replace) conservation experts with IUCN Red List assessments. All AI-generated outputs require expert validation. We understand this may raise concerns—please see [Addressing Concerns About AI](docs/ADDRESSING_CONCERNS.md) for a detailed, respectful discussion.
+
+This repository explores AI-assisted automation for IUCN Red List assessments while maintaining rigorous scientific standards and expert oversight.
 
 ## Project Structure
 
@@ -30,6 +34,7 @@ ai-redlist-assessments/
 - 🏗️ [Architecture Documentation](docs/ARCHITECTURE.md)
 - 🤖 [AI Development Log](docs/AI_DEVELOPMENT_LOG.md)
 - 📊 [Panthera leo Results](docs/results/PANTHERA_LEO_RESULTS.md)
+- ⚠️ [Addressing Concerns About AI](docs/ADDRESSING_CONCERNS.md) - **Read this first if skeptical**
 
 ## Quick Start
 

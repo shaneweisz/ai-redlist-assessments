@@ -2,6 +2,17 @@
 
 Complete documentation for the AI-assisted IUCN Red List assessment pipeline.
 
+> **New to this project?** Start with [Addressing Concerns About AI](ADDRESSING_CONCERNS.md) to understand the role of AI, limitations, and safeguards.
+
+## ⚠️ Important First Read
+
+- **[ADDRESSING_CONCERNS.md](ADDRESSING_CONCERNS.md)** - Addressing skepticism about AI in conservation
+  - Why AI cannot replace experts
+  - Safeguards against errors and bias
+  - Quality assurance measures
+  - Transparency commitments
+  - Responding to misuse concerns
+
 ## 📖 Getting Started
 
 - **[GETTING_STARTED.md](GETTING_STARTED.md)** - Setup instructions and usage guide
