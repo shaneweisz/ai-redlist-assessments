@@ -1,0 +1,56 @@
+{
+  "scientific_name": "Adansonia digitata L.",
+  "canonical_name": "Adansonia digitata",
+  "authority": "L.",
+  "taxonomic_status": "ACCEPTED",
+  "confidence": 99,
+  "taxonomy": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae",
+    "genus": "Adansonia",
+    "species": "Adansonia digitata"
+  },
+  "common_names": [
+    {
+      "name": "Baobab",
+      "language": "eng"
+    },
+    {
+      "name": "Baobab Tree",
+      "language": "eng"
+    },
+    {
+      "name": "Baobab digité",
+      "language": "fra"
+    },
+    {
+      "name": "Pain de singe",
+      "language": "fra"
+    },
+    {
+      "name": "Calebassier du Sénégal",
+      "language": "fra"
+    },
+    {
+      "name": "Baobá",
+      "language": "por"
+    },
+    {
+      "name": "Affenbrotbaum",
+      "language": "deu"
+    },
+    {
+      "name": "Dead-rat-tree",
+      "language": "eng"
+    }
+  ],
+  "gbif_id": "5406695",
+  "data_sources": [
+    "GBIF Backbone Taxonomy"
+  ],
+  "published_in": "L. (1753). In: Sp. Pl. 1190.",
+  "timestamp": "2025-10-21T11:06:00Z"
+}

@@ -66,11 +66,6 @@ See [reference/](reference/) folder for:
 ## 🧪 Test Results
 
 See [results/](results/) folder for:
-- **[PANTHERA_LEO_RESULTS.md](results/PANTHERA_LEO_RESULTS.md)** - Lion assessment results
-  - Wide-ranging species (9 countries)
-  - EOO: 9.4M km², AOO: 396 km²
-  - Different criterion from official (demonstrates limitation)
-  - Performance metrics and insights
 
 - **[SPIZOCORYS_FRINGILLARIS_RESULTS.md](results/SPIZOCORYS_FRINGILLARIS_RESULTS.md)** - Botha's Lark assessment ⭐
   - Range-restricted endemic (South Africa only)
@@ -79,6 +74,19 @@ See [results/](results/) folder for:
   - Category: EN ✅ Matches official
   - Criterion: B2 ✅ Matches official
   - **Validates pipeline accuracy for geographic assessments**
+
+- **[ADANSONIA_DIGITATA_RESULTS.md](results/ADANSONIA_DIGITATA_RESULTS.md)** - African Baobab assessment
+  - Iconic tree species, pan-African distribution
+  - EOO: 25.4M km², AOO: 2,732 km² (26 countries)
+  - Preliminary: LC (Least Concern)
+  - Demonstrates pipeline on tree species and wide distributions
+  - Highlights need for population trend analysis (Phases 3-5)
+
+- **[PANTHERA_LEO_RESULTS.md](results/PANTHERA_LEO_RESULTS.md)** - Lion assessment results
+  - Wide-ranging species (9 countries)
+  - EOO: 9.4M km², AOO: 396 km²
+  - Different criterion from official (demonstrates limitation)
+  - Performance metrics and insights
 
 ## 📚 Additional Resources
 

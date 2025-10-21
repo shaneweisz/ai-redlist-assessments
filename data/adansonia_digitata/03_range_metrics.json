@@ -1,0 +1,62 @@
+{
+  "species": "Adansonia digitata",
+  "eoo": {
+    "value_km2": 25376169.99,
+    "category": "LC",
+    "method": "minimum_convex_polygon",
+    "projection": "ESRI:54009"
+  },
+  "aoo": {
+    "value_km2": 2732,
+    "occupied_cells": 683,
+    "cell_size_km": 2,
+    "category": "LC",
+    "method": "iucn_grid_2x2km"
+  },
+  "criterion_b": {
+    "preliminary_category": "LC",
+    "driving_metric": "both_same",
+    "rationale": "EOO (25,376,170 km\u00b2) and AOO (2,732 km\u00b2) both exceed thresholds for threatened categories."
+  },
+  "geographic_summary": {
+    "num_locations": 1078,
+    "latitude_range": [
+      -28.02,
+      18.26
+    ],
+    "longitude_range": [
+      -17.47,
+      54.61
+    ],
+    "countries": 26,
+    "country_list": [
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Cameroon",
+      "Congo, Democratic Republic of the",
+      "Gambia",
+      "Ghana",
+      "Guinea-Bissau",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Mayotte",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "Oman",
+      "Sao Tome and Principe",
+      "Senegal",
+      "South Africa",
+      "Tanzania, United Republic of",
+      "Togo",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  "timestamp": "2025-10-21T11:39:49.865823Z"
+}

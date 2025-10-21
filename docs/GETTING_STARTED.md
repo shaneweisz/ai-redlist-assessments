@@ -52,21 +52,21 @@ source venv/bin/activate
 In Claude Code, simply type:
 
 ```
-/assess Panthera leo
+/assess Adansonia digitata
 ```
 
 This will:
 1. Launch the Taxonomy Agent to resolve species information
 2. Launch the Occurrence Agent to collect distribution data
 3. Launch the Geographic Agent to calculate EOO/AOO
-4. Generate output files in `data/panthera_leo/`
+4. Generate output files in `data/adansonia_digitata/`
 
 ### What Gets Generated
 
 After running the pipeline, you'll find these files:
 
 ```
-data/panthera_leo/
+data/adansonia_digitata/
 ├── 01_taxonomic_data.json      # Scientific name, hierarchy, common names
 ├── 02_occurrence_data.json     # Distribution records from GBIF
 └── 03_range_metrics.json       # EOO, AOO, Criterion B assessment
@@ -78,7 +78,7 @@ You can also run individual components:
 
 ```bash
 # Calculate EOO/AOO from existing occurrence data
-python scripts/calculate_eoo_aoo.py panthera_leo
+python scripts/calculate_eoo_aoo.py adansonia_digitata
 ```
 
 ## Understanding the Output

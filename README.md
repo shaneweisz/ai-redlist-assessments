@@ -24,7 +24,8 @@ ai-redlist-assessments/
 │   └── results/                    # Test results
 ├── 📊 data/                        # Assessment outputs
 │   ├── panthera_leo/               # Lion assessment (wide-ranging)
-│   └── spizocorys_fringillaris/    # Botha's Lark (range-restricted)
+│   ├── spizocorys_fringillaris/    # Botha's Lark (range-restricted)
+│   └── adansonia_digitata/         # African Baobab (tree species)
 ├── 🐍 scripts/                     # Utility scripts
 ├── 💻 src/                         # Source code
 └── 🧪 tests/                       # Test files
@@ -37,6 +38,7 @@ ai-redlist-assessments/
 - 📊 **Assessment Results:**
   - [Panthera leo (Lion)](docs/results/PANTHERA_LEO_RESULTS.md) - Wide-ranging species
   - [Spizocorys fringillaris (Botha's Lark)](docs/results/SPIZOCORYS_FRINGILLARIS_RESULTS.md) - **95% accurate vs official IUCN**
+  - [Adansonia digitata (African Baobab)](docs/results/ADANSONIA_DIGITATA_RESULTS.md) - Iconic tree species
 - ⚠️ [Addressing Concerns About AI](docs/ADDRESSING_CONCERNS.md) - **Read this first if skeptical**
 
 ## Quick Start
@@ -48,8 +50,9 @@ ai-redlist-assessments/
 # 2. Add your IUCN API key to src/config/api_keys.env
 
 # 3. Run assessment pipeline
-/assess Panthera leo              # Wide-ranging species
-/assess Spizocorys fringillaris   # Range-restricted species
+/assess Spizocorys fringillaris   # Range-restricted bird (best for validation)
+/assess Adansonia digitata        # Iconic tree species
+/assess Panthera leo              # Wide-ranging mammal
 ```
 
 ## Overview
